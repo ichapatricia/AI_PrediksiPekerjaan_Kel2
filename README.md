@@ -12,8 +12,6 @@ Eksplorasi data kami visualisasikan dalam bentuk Violin Plot dan Scatter Plot. S
 
 Eksplorasi Data
 4 Parameter/Feature - Input berupa numerik
-
-
 Profil = Wajib Profil yang dipilih oleh setiap mahasiswa (minimal semester 5) TI UKDW<br>
 Nilai = Nilai yang diperoleh pada setiap mata kuliah yang diampu<br>
 Skill = Kelebihan atau penunjang untuk profil pilihan<br>
@@ -25,8 +23,7 @@ Modelling
 Production System
 Adalah langkah-langkah atau prosedur yang digunakan untuk mengimplementasikan sebuah sistem produksi (production system). Sistem produksi adalah sistem yang mengatur aliran kerja dan proses produksi dalam suatu kerja algoritma, sehingga suatu algoritma nantinya akan menghasilkan output sesuai dengan rules yang ditetapkan.
 Dengan algoritma tersebut dihasilkan:
-
-Aturan (rules) yang digunakan sebagai acuan program; 
+Aturan (rules) yang digunakan sebagai acuan program:
 Jika [Nilai PDAP] dan [Nilai DesEk] dan [NilIai DEA] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang UI Designer. 
 Jika [Nilai PDAP] dan [Nilai DesEk] dan [NilIai DEA] dan [Nilai BPM] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang UI Designer. 
 Jika [Nilai ML] dan [Nilai JST] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Data Scientist.  
@@ -41,7 +38,6 @@ Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih d
 
 Confusion Matrix
 Model evaluasi ini memberikan gambaran tentang jumlah diagnosis yang benar dan salah. Confusion Matrix mencakup empat metrik evaluasi utama, yaitu:
-
 Cara menggunakan Program :
 1. User diminta untuk memasukkan Profil pilihan dengan menginputkan angka 1 sampai 4 dan jika memilih / menginputkan dua pilihan, pisahkan dengan tanda koma (,)
 2. User diminta untuk memilih skill yang dimiliki dan memasukkan nomor skill yang, jika memilih lebih dari satu skill maka pisahkan dengan tanda koma (,)
