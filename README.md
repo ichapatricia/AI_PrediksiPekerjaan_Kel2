@@ -19,7 +19,7 @@ Nilai = Nilai yang diperoleh pada setiap mata kuliah yang diampu<br>
 Skill = Kelebihan atau penunjang untuk profil pilihan<br>
 Mata Kuliah = Mata Kuliah<br>
 1 Target - Output berupa numerik<br>
-Outcome  = 
+Outcome  = Pekerjaan berdasarkan nilai dan skill
 
 Modelling
 Production System
@@ -42,7 +42,8 @@ Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih d
 Confusion Matrix
 Model evaluasi ini memberikan gambaran tentang jumlah diagnosis yang benar dan salah. Confusion Matrix mencakup empat metrik evaluasi utama, yaitu:
 
-True Positive (TP) = actual 1, predicted 1 = diabetes dan didiagnosis diabetes = 34
-True Negative (TN) = actual 0, predicted 0 = tidak diabetes dan didiagnosis tidak diabetes = 106
-False Positive (FP) = actual 0, predicted 1 = tidak diabetes, tetapi didiagnosis diabetes = 17
-False Negative (FN) = actual 1, predicted 0 = diabetes, tetapi didiagnosis tidak diabetes = 35
+Cara menggunakan Program :
+1. User diminta untuk memasukkan Profil pilihan dengan menginputkan angka 1 sampai 4 dan jika memilih / menginputkan dua pilihan, pisahkan dengan tanda koma (,)
+2. User diminta untuk memilih skill yang dimiliki dan memasukkan nomor skill yang, jika memilih lebih dari satu skill maka pisahkan dengan tanda koma (,)
+3. User memasukkan nilai dari setiap mata kuliah dengan skala angka 10 sampai 100
+4. Program akan memberikan output berupa pekerjaan yang cocok sesuai nilai dan skill
