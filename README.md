@@ -5,9 +5,10 @@ Daftar Anggota
 
 1. 71210700 Tirsa W Makmara
 2. 71210734 Eunike Meilanie
-3. 71210784 Icha Patricia N
-Penjelasan singkat
-Aplikasi Artificial Intelligence (AI) yang kami buat adalah Sistem Rekomendasi Pekerjaan untuk Mahasiswa Informatika UKDW. Aplikasi tersebut menggunakan data primer yang kmai peroleh dari penyebaran g-form. Eksplorasi data kami visualisasikan dalam bentuk Violin Plot dan Scatter Plot. Selanjutnya, aplikasi diimplementasikan menggunakan Model Klasifikasi dengan algoritma Logistic Regression. Model yang sudah jadi kami evaluasi menggunakan Confusion Matrix.
+3. 71210784 Icha Patricia N<br>
+Penjelasan singkat<br>
+Aplikasi Artificial Intelligence (AI) yang kami buat adalah Sistem Rekomendasi Pekerjaan untuk Mahasiswa Informatika UKDW. Aplikasi tersebut menggunakan data primer yang kmai peroleh dari penyebaran g-form. <br>
+Eksplorasi data kami visualisasikan dalam bentuk Violin Plot dan Scatter Plot. Selanjutnya, aplikasi diimplementasikan menggunakan Model Klasifikasi dengan algoritma Logistic Regression. Model yang sudah jadi kami evaluasi menggunakan Confusion Matrix. <br>
 
 Eksplorasi Data
 4 Parameter/Feature - Input berupa numerik
