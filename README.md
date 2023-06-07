@@ -18,7 +18,7 @@ Nilai = Nilai yang diperoleh pada setiap mata kuliah yang diampu<br>
 Skill = Kelebihan atau penunjang untuk profil pilihan<br>
 Mata Kuliah = Mata Kuliah<br>
 1 Target - Output berupa numerik<br>
-Outcome  = Pekerjaan berdasarkan nilai dan skill<br><br>
+Outcome  = Pekerjaan berdasarkan nilai dan skill<br><br><br>
 
 Modelling<br><br>
 Production System<br>
@@ -34,7 +34,7 @@ Jika [Nilai DW] memiliki nilai sama dengan atau lebih dari 80, maka user akan di
 Jika [Nilai KamBD] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Database Security Analyst.  <br>
 Jika [Nilai EN] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Administrator.  <br>
 Jika [Nilai Cloud] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Cloud Infrastructure Specialist.  <br>
-Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Security Engineer. <br><br>
+Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Security Engineer. <br><br><br>
  
 
 Confusion Matrix<br><br>
