@@ -23,13 +23,22 @@ Outcome  =
 
 Modelling
 Production System
-Adalah langkah-langkah atau prosedur yang digunakan untuk mengimplementasikan sebuah sistem produksi (production system). Sistem produksi adalah sistem yang mengatur aliran kerja dan proses produksi dalam suatu perusahaan atau organisasi.
+Adalah langkah-langkah atau prosedur yang digunakan untuk mengimplementasikan sebuah sistem produksi (production system). Sistem produksi adalah sistem yang mengatur aliran kerja dan proses produksi dalam suatu kerja algoritma, sehingga suatu algoritma nantinya akan menghasilkan output sesuai dengan rules yang ditetapkan.
 Dengan algoritma tersebut dihasilkan:
 
-Area Under the Curve (AUC) = mengukur kemampuan prediksi untuk membedakan antara positif dan negatif = 0.818
-Classification Accuracy (CA) = mengukur sejauh mana prediksi benar atau tidak = 0.729
-F1 Score = mengukur rata-rata antara presisi dan recall = 0.803
-Precision = mengukur mana identifikasi positif benar atau belum = 0.752
+Aturan (rules) yang digunakan sebagai acuan program; 
+Jika [Nilai PDAP] dan [Nilai DesEk] dan [NilIai DEA] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang UI Designer. 
+Jika [Nilai PDAP] dan [Nilai DesEk] dan [NilIai DEA] dan [Nilai BPM] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang UI Designer. 
+Jika [Nilai ML] dan [Nilai JST] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Data Scientist.  
+Jika [Nilai IoT] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang IoT Developer.  
+Jika [Nilai Abas] dan [Nilai BaDaTer] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Database Administrator.  
+Jika [Nilai DW] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Data Warehouse Specialist.  
+Jika [Nilai KamBD] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Database Security Analyst.  
+Jika [Nilai EN] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Administrator.  
+Jika [Nilai Cloud] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Cloud Infrastructure Specialist.  
+Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Security Engineer. 
+ 
+
 Confusion Matrix
 Model evaluasi ini memberikan gambaran tentang jumlah diagnosis yang benar dan salah. Confusion Matrix mencakup empat metrik evaluasi utama, yaitu:
 
