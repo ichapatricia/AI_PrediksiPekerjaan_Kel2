@@ -14,11 +14,11 @@ Eksplorasi Data
 4 Parameter/Feature - Input berupa numerik
 
 
-Profil = Wajib Profil yang dipilih oleh setiap mahasiswa (minimal semester 5) TI UKDW
-Nilai = Nilai yang diperoleh pada setiap mata kuliah yang diampu
-Skill = Kelebihan atau penunjang untuk profil pilihan
-Mata Kuliah = Mata Kuliah
-1 Target - Output berupa numerik
+Profil = Wajib Profil yang dipilih oleh setiap mahasiswa (minimal semester 5) TI UKDW<br>
+Nilai = Nilai yang diperoleh pada setiap mata kuliah yang diampu<br>
+Skill = Kelebihan atau penunjang untuk profil pilihan<br>
+Mata Kuliah = Mata Kuliah<br>
+1 Target - Output berupa numerik<br>
 Outcome  = 
 
 Modelling
