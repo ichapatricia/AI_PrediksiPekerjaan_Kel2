@@ -9,7 +9,7 @@ Daftar Anggota
 
 Penjelasan singkat<br>
 Aplikasi Artificial Intelligence (AI) yang kami buat adalah Sistem Rekomendasi Pekerjaan untuk Mahasiswa Informatika UKDW. Aplikasi tersebut menggunakan data primer yang kmai peroleh dari penyebaran g-form. <br>
-Eksplorasi data kami visualisasikan dalam bentuk Violin Plot dan Scatter Plot. Selanjutnya, aplikasi diimplementasikan menggunakan Model Klasifikasi dengan algoritma Logistic Regression. Model yang sudah jadi kami evaluasi menggunakan Confusion Matrix. <br><br><br>
+Eksplorasi data kami visualisasikan dalam bentuk BarPlot dan Prediction. Selanjutnya, aplikasi diimplementasikan menggunakan Model Naive Bayes dengan algoritma Production System. <br><br><br>
 
 Eksplorasi Data<br><br>
 4 Parameter/Feature - Input berupa numerik
@@ -37,8 +37,10 @@ Jika [Nilai Cloud] memiliki nilai sama dengan atau lebih dari 80, maka user akan
 Jika [Nilai PeKamJar] dan [Nilai KamJar] memiliki nilai sama dengan atau lebih dari 80, maka user akan disarankan untuk menjadi seorang Network Security Engineer. <br><br><br>
  
 
-Confusion Matrix<br><br>
-Model evaluasi ini memberikan gambaran tentang jumlah diagnosis yang benar dan salah. Confusion Matrix mencakup empat metrik evaluasi utama, yaitu:
+Naive Bayes<br><br>
+Model Naive Bayes adalah sebuah metode klasifikasi yang berdasarkan pada teorema probabilitas Bayes. Metode ini sering digunakan dalam analisis data untuk memprediksi kelas atau label suatu sampel berdasarkan fitur-fitur yang terkait dengan sampel tersebut. Model Naive Bayes didasarkan pada asumsi yang disebut "naive" (sederhana) bahwa semua fitur dalam data diberikan secara independen.
+
+Prinsip dasar dari model Naive Bayes adalah menghitung probabilitas posterior kelas (kelas target) untuk setiap sampel berdasarkan probabilitas prior kelas dan probabilitas fitur-fitur yang diamati.
 Cara menggunakan Program :<br>
 1. User diminta untuk memasukkan Profil pilihan dengan menginputkan angka 1 sampai 4 dan jika memilih / menginputkan dua pilihan, pisahkan dengan tanda koma (,)<br>
 2. User diminta untuk memilih skill yang dimiliki dan memasukkan nomor skill yang, jika memilih lebih dari satu skill maka pisahkan dengan tanda koma (,)<br>
